@@ -14,7 +14,7 @@ requests, xpath, re
 
 可以看到，有很多组不同主题的图片库
 
-![meizhup1](meizhuo1.png)
+![meizhuo1](meizhuo1.png)
 
 进入每个图片库会还有几张图片
 
