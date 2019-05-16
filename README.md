@@ -8,7 +8,7 @@ requests, xpath, re
 
 我们打开美桌网随便进入一个明星的主页
 
-这里我们以朱一龙为例<http://www.win4000.com/mt/huge.html>：
+这里我们以朱一龙为例  http://www.win4000.com/mt/zhuyilong.html：
 
 ![meizhuo](meizhuo.png)
 
