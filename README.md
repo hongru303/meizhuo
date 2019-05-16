@@ -10,11 +10,11 @@ requests, xpath, re
 
 这里我们以朱一龙为例  http://www.win4000.com/mt/zhuyilong.html：
 
-![meizhuo](meizhuo.png)
+![meizhuo](meizhuo.JPG)
 
 可以看到，有很多组不同主题的图片库
 
-![meizhuo1](meizhuo1.png)
+![meizhuo1](meizhuo1.JPG)
 
 进入每个图片库会还有几张图片
 
@@ -26,4 +26,4 @@ requests, xpath, re
 
 这里附上我爬到的图片（因为不是用多进程所以就爬了一页）
 
-![meizhuo2](meizhuo2.png)
+![meizhuo2](meizhuo2.JPG)
